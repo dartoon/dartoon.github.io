@@ -111,13 +111,13 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: solid 1px #e4e4e4;
-		color: SlateBlue;
+		color: #66c2ff;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: SlateBlue !important;
+			color: #66c2ff !important;
 		}
 
 	strong, b {
@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: SlateBlue;
+		color: #66c2ff;
 		font-size: 3.5em;
 	}
 
@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: SlateBlue;
+			border-color: #66c2ff;
 		}
 
 	select {
@@ -1953,7 +1953,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: SlateBlue;
+			border-color: #66c2ff;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2407,7 +2407,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: SlateBlue;
+				background: #66c2ff;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2623,7 +2623,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: SlateBlue;
+			background-color: #66c2ff;
 			color: #ffffff !important;
 		}
 
@@ -2705,7 +2705,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: SlateBlue;
+		background: #66c2ff;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2794,7 +2794,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 0px #5ccfb1;
 					display: block;
 					padding: 0;
 				}
@@ -2813,7 +2813,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: white;
-							color: SlateBlue !important;
+							color: #66c2ff !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3081,7 +3081,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: SlateBlue;
+						background: #66c2ff;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
